@@ -12,8 +12,6 @@ Hello everyone! It is a pleasure to have you here. Feel free to explore my perso
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-caroline-vale/)
 
-![Caroline GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacarolinevale&show_icons=true&theme=dracula)
-
 ### 💻Technologies I'm learning:
 
 <div style="display:inline_block"><br/>
